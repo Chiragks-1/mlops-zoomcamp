@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/0/721148c0db2c4a28b5a13dffbbc19084/artifacts
+end_time: 1718959101237
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 721148c0db2c4a28b5a13dffbbc19084
+run_name: respected-midge-100
+run_uuid: 721148c0db2c4a28b5a13dffbbc19084
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718959081280
+status: 3
+tags: []
+user_id: codespace

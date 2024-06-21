@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/0/e6d82238ed364e9a8a99d1dbad481ef0/artifacts
+end_time: 1718958908352
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6d82238ed364e9a8a99d1dbad481ef0
+run_name: honorable-crow-745
+run_uuid: e6d82238ed364e9a8a99d1dbad481ef0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718958908085
+status: 3
+tags: []
+user_id: codespace
