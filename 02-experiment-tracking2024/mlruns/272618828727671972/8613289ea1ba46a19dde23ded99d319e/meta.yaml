@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/272618828727671972/8613289ea1ba46a19dde23ded99d319e/artifacts
+end_time: 1719227153256
+entry_point_name: ''
+experiment_id: '272618828727671972'
+lifecycle_stage: active
+run_id: 8613289ea1ba46a19dde23ded99d319e
+run_name: judicious-smelt-399
+run_uuid: 8613289ea1ba46a19dde23ded99d319e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719227148701
+status: 3
+tags: []
+user_id: codespace

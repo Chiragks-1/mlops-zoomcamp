@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/272618828727671972/81fe38413d4247d084e51bdffdbe2b56/artifacts
+end_time: 1719227133133
+entry_point_name: ''
+experiment_id: '272618828727671972'
+lifecycle_stage: active
+run_id: 81fe38413d4247d084e51bdffdbe2b56
+run_name: awesome-trout-438
+run_uuid: 81fe38413d4247d084e51bdffdbe2b56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719227123802
+status: 3
+tags: []
+user_id: codespace

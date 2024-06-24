@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/272618828727671972/5ab257c39f9d4a3aa526820d8fdce4f9/artifacts
+end_time: 1719227115707
+entry_point_name: ''
+experiment_id: '272618828727671972'
+lifecycle_stage: active
+run_id: 5ab257c39f9d4a3aa526820d8fdce4f9
+run_name: rogue-squirrel-552
+run_uuid: 5ab257c39f9d4a3aa526820d8fdce4f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719227115147
+status: 3
+tags: []
+user_id: codespace

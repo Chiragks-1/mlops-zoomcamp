@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/272618828727671972/e29490a90d30454babb941d142a43e73/artifacts
+end_time: 1719227169180
+entry_point_name: ''
+experiment_id: '272618828727671972'
+lifecycle_stage: active
+run_id: e29490a90d30454babb941d142a43e73
+run_name: glamorous-cub-928
+run_uuid: e29490a90d30454babb941d142a43e73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719227163913
+status: 3
+tags: []
+user_id: codespace

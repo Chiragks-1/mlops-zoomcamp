@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/272618828727671972/800adfd580d342fb8e7a10bf2262b30f/artifacts
+end_time: 1719227163904
+entry_point_name: ''
+experiment_id: '272618828727671972'
+lifecycle_stage: active
+run_id: 800adfd580d342fb8e7a10bf2262b30f
+run_name: silent-roo-661
+run_uuid: 800adfd580d342fb8e7a10bf2262b30f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719227160637
+status: 3
+tags: []
+user_id: codespace

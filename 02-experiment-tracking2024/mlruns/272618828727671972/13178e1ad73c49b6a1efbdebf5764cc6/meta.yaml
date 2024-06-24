@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/272618828727671972/13178e1ad73c49b6a1efbdebf5764cc6/artifacts
+end_time: 1719227148693
+entry_point_name: ''
+experiment_id: '272618828727671972'
+lifecycle_stage: active
+run_id: 13178e1ad73c49b6a1efbdebf5764cc6
+run_name: lyrical-mare-392
+run_uuid: 13178e1ad73c49b6a1efbdebf5764cc6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719227143092
+status: 3
+tags: []
+user_id: codespace

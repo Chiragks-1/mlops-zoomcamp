@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/272618828727671972/8df9f6b3be00456784087981c1ffa38f/artifacts
+end_time: 1719227159655
+entry_point_name: ''
+experiment_id: '272618828727671972'
+lifecycle_stage: active
+run_id: 8df9f6b3be00456784087981c1ffa38f
+run_name: sneaky-steed-878
+run_uuid: 8df9f6b3be00456784087981c1ffa38f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719227156742
+status: 3
+tags: []
+user_id: codespace

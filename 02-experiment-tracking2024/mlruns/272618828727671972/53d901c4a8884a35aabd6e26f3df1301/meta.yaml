@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/272618828727671972/53d901c4a8884a35aabd6e26f3df1301/artifacts
+end_time: 1719227121160
+entry_point_name: ''
+experiment_id: '272618828727671972'
+lifecycle_stage: active
+run_id: 53d901c4a8884a35aabd6e26f3df1301
+run_name: auspicious-stoat-561
+run_uuid: 53d901c4a8884a35aabd6e26f3df1301
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719227115716
+status: 3
+tags: []
+user_id: codespace

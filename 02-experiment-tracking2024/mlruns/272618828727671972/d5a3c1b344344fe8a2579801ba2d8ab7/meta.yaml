@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/272618828727671972/d5a3c1b344344fe8a2579801ba2d8ab7/artifacts
+end_time: 1719227143083
+entry_point_name: ''
+experiment_id: '272618828727671972'
+lifecycle_stage: active
+run_id: d5a3c1b344344fe8a2579801ba2d8ab7
+run_name: wistful-elk-53
+run_uuid: d5a3c1b344344fe8a2579801ba2d8ab7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719227142127
+status: 3
+tags: []
+user_id: codespace

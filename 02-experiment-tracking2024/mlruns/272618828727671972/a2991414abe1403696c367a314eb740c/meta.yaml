@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/272618828727671972/a2991414abe1403696c367a314eb740c/artifacts
+end_time: 1719227123793
+entry_point_name: ''
+experiment_id: '272618828727671972'
+lifecycle_stage: active
+run_id: a2991414abe1403696c367a314eb740c
+run_name: bold-shoat-87
+run_uuid: a2991414abe1403696c367a314eb740c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719227121168
+status: 3
+tags: []
+user_id: codespace

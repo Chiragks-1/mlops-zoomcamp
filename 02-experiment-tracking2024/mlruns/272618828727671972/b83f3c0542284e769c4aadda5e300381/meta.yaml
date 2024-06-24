@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/272618828727671972/b83f3c0542284e769c4aadda5e300381/artifacts
+end_time: 1719227156733
+entry_point_name: ''
+experiment_id: '272618828727671972'
+lifecycle_stage: active
+run_id: b83f3c0542284e769c4aadda5e300381
+run_name: melodic-ram-368
+run_uuid: b83f3c0542284e769c4aadda5e300381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719227153264
+status: 3
+tags: []
+user_id: codespace

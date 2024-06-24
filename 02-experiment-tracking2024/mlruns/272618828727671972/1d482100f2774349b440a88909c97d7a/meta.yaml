@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/272618828727671972/1d482100f2774349b440a88909c97d7a/artifacts
+end_time: 1719227160629
+entry_point_name: ''
+experiment_id: '272618828727671972'
+lifecycle_stage: active
+run_id: 1d482100f2774349b440a88909c97d7a
+run_name: dashing-zebra-998
+run_uuid: 1d482100f2774349b440a88909c97d7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719227159664
+status: 3
+tags: []
+user_id: codespace
