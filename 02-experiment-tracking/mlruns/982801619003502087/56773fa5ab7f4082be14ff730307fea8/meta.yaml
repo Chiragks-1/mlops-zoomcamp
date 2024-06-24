@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/982801619003502087/56773fa5ab7f4082be14ff730307fea8/artifacts
+end_time: 1718969258656
+entry_point_name: ''
+experiment_id: '982801619003502087'
+lifecycle_stage: active
+run_id: 56773fa5ab7f4082be14ff730307fea8
+run_name: casual-snipe-234
+run_uuid: 56773fa5ab7f4082be14ff730307fea8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718969251477
+status: 3
+tags: []
+user_id: codespace

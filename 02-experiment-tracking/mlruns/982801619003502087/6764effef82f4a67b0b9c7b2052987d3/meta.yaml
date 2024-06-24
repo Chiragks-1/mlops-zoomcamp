@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/982801619003502087/6764effef82f4a67b0b9c7b2052987d3/artifacts
+end_time: 1718969250686
+entry_point_name: ''
+experiment_id: '982801619003502087'
+lifecycle_stage: active
+run_id: 6764effef82f4a67b0b9c7b2052987d3
+run_name: handsome-hog-474
+run_uuid: 6764effef82f4a67b0b9c7b2052987d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718969250207
+status: 3
+tags: []
+user_id: codespace

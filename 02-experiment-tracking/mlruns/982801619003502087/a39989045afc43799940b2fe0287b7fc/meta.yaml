@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/982801619003502087/a39989045afc43799940b2fe0287b7fc/artifacts
+end_time: 1718969627513
+entry_point_name: ''
+experiment_id: '982801619003502087'
+lifecycle_stage: active
+run_id: a39989045afc43799940b2fe0287b7fc
+run_name: skillful-trout-920
+run_uuid: a39989045afc43799940b2fe0287b7fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718969615507
+status: 3
+tags: []
+user_id: codespace

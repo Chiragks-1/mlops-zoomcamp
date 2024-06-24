@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/982801619003502087/3e641ff555dd4f60a433c39ae1f91a15/artifacts
+end_time: 1719194241001
+entry_point_name: ''
+experiment_id: '982801619003502087'
+lifecycle_stage: active
+run_id: 3e641ff555dd4f60a433c39ae1f91a15
+run_name: clumsy-squid-516
+run_uuid: 3e641ff555dd4f60a433c39ae1f91a15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719194240262
+status: 3
+tags: []
+user_id: codespace

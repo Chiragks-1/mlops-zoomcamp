@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/982801619003502087/fc03f81070b743799943accf9514a1a7/artifacts
+end_time: 1719194276584
+entry_point_name: ''
+experiment_id: '982801619003502087'
+lifecycle_stage: active
+run_id: fc03f81070b743799943accf9514a1a7
+run_name: lyrical-quail-908
+run_uuid: fc03f81070b743799943accf9514a1a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719194264483
+status: 3
+tags: []
+user_id: codespace

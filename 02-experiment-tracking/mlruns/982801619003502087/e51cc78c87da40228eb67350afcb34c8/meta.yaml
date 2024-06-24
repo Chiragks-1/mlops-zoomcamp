@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/982801619003502087/e51cc78c87da40228eb67350afcb34c8/artifacts
+end_time: 1718969652493
+entry_point_name: ''
+experiment_id: '982801619003502087'
+lifecycle_stage: active
+run_id: e51cc78c87da40228eb67350afcb34c8
+run_name: skillful-horse-115
+run_uuid: e51cc78c87da40228eb67350afcb34c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718969651162
+status: 3
+tags: []
+user_id: codespace

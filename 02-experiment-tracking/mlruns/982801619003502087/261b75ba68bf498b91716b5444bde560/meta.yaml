@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/982801619003502087/261b75ba68bf498b91716b5444bde560/artifacts
+end_time: 1718969322682
+entry_point_name: ''
+experiment_id: '982801619003502087'
+lifecycle_stage: active
+run_id: 261b75ba68bf498b91716b5444bde560
+run_name: able-rat-169
+run_uuid: 261b75ba68bf498b91716b5444bde560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718969315741
+status: 3
+tags: []
+user_id: codespace

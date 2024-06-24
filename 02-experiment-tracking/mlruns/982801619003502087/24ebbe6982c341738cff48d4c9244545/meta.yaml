@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/982801619003502087/24ebbe6982c341738cff48d4c9244545/artifacts
+end_time: 1718969590987
+entry_point_name: ''
+experiment_id: '982801619003502087'
+lifecycle_stage: active
+run_id: 24ebbe6982c341738cff48d4c9244545
+run_name: angry-tern-634
+run_uuid: 24ebbe6982c341738cff48d4c9244545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718969580279
+status: 3
+tags: []
+user_id: codespace

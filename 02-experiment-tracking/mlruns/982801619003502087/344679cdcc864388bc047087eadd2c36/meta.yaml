@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/982801619003502087/344679cdcc864388bc047087eadd2c36/artifacts
+end_time: 1718969636455
+entry_point_name: ''
+experiment_id: '982801619003502087'
+lifecycle_stage: active
+run_id: 344679cdcc864388bc047087eadd2c36
+run_name: delicate-cub-299
+run_uuid: 344679cdcc864388bc047087eadd2c36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718969628773
+status: 3
+tags: []
+user_id: codespace

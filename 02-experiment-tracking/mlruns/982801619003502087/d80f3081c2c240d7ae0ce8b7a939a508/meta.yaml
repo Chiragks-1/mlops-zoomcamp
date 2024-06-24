@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/982801619003502087/d80f3081c2c240d7ae0ce8b7a939a508/artifacts
+end_time: 1719194300179
+entry_point_name: ''
+experiment_id: '982801619003502087'
+lifecycle_stage: active
+run_id: d80f3081c2c240d7ae0ce8b7a939a508
+run_name: big-conch-639
+run_uuid: d80f3081c2c240d7ae0ce8b7a939a508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719194296239
+status: 3
+tags: []
+user_id: codespace

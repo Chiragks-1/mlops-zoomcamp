@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/982801619003502087/bc6a72976ad0433a9dd18dc9306e74d5/artifacts
+end_time: 1719194248385
+entry_point_name: ''
+experiment_id: '982801619003502087'
+lifecycle_stage: active
+run_id: bc6a72976ad0433a9dd18dc9306e74d5
+run_name: zealous-kit-72
+run_uuid: bc6a72976ad0433a9dd18dc9306e74d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719194241010
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/982801619003502087/cb8aa73002a44f06964a0c29952cb656/artifacts
+end_time: 1718969286744
+entry_point_name: ''
+experiment_id: '982801619003502087'
+lifecycle_stage: active
+run_id: cb8aa73002a44f06964a0c29952cb656
+run_name: gregarious-panda-668
+run_uuid: cb8aa73002a44f06964a0c29952cb656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718969274648
+status: 3
+tags: []
+user_id: codespace

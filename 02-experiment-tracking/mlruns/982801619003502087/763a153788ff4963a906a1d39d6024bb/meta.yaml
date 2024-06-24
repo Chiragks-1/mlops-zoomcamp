@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/982801619003502087/763a153788ff4963a906a1d39d6024bb/artifacts
+end_time: 1718969647294
+entry_point_name: ''
+experiment_id: '982801619003502087'
+lifecycle_stage: active
+run_id: 763a153788ff4963a906a1d39d6024bb
+run_name: charming-grub-743
+run_uuid: 763a153788ff4963a906a1d39d6024bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718969642533
+status: 3
+tags: []
+user_id: codespace

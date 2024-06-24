@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/982801619003502087/94e1425283304628b2badff7def4c921/artifacts
+end_time: 1718969651154
+entry_point_name: ''
+experiment_id: '982801619003502087'
+lifecycle_stage: active
+run_id: 94e1425283304628b2badff7def4c921
+run_name: receptive-cow-484
+run_uuid: 94e1425283304628b2badff7def4c921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718969647306
+status: 3
+tags: []
+user_id: codespace
