@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking2024/mlruns/0/3a89a8b8d1794c068a4c2b6135e7e9a8/artifacts
+end_time: 1719224347140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a89a8b8d1794c068a4c2b6135e7e9a8
+run_name: big-sloth-421
+run_uuid: 3a89a8b8d1794c068a4c2b6135e7e9a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719224331227
+status: 3
+tags: []
+user_id: codespace

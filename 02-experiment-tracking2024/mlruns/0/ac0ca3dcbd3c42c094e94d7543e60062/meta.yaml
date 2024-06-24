@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking2024/mlruns/0/ac0ca3dcbd3c42c094e94d7543e60062/artifacts
+end_time: 1719224331221
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac0ca3dcbd3c42c094e94d7543e60062
+run_name: colorful-steed-642
+run_uuid: ac0ca3dcbd3c42c094e94d7543e60062
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719224330220
+status: 3
+tags: []
+user_id: codespace
