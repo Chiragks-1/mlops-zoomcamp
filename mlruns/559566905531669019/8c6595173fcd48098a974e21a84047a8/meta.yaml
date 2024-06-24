@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559566905531669019/8c6595173fcd48098a974e21a84047a8/artifacts
+end_time: 1719238394409
+entry_point_name: ''
+experiment_id: '559566905531669019'
+lifecycle_stage: active
+run_id: 8c6595173fcd48098a974e21a84047a8
+run_name: upset-conch-895
+run_uuid: 8c6595173fcd48098a974e21a84047a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719238388756
+status: 3
+tags: []
+user_id: codespace

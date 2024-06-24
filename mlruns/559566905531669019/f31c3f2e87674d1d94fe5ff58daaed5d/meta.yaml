@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559566905531669019/f31c3f2e87674d1d94fe5ff58daaed5d/artifacts
+end_time: 1719238409725
+entry_point_name: ''
+experiment_id: '559566905531669019'
+lifecycle_stage: active
+run_id: f31c3f2e87674d1d94fe5ff58daaed5d
+run_name: dazzling-fox-274
+run_uuid: f31c3f2e87674d1d94fe5ff58daaed5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719238406540
+status: 3
+tags: []
+user_id: codespace

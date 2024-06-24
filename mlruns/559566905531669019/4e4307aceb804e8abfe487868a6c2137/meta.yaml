@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559566905531669019/4e4307aceb804e8abfe487868a6c2137/artifacts
+end_time: 1719238406528
+entry_point_name: ''
+experiment_id: '559566905531669019'
+lifecycle_stage: active
+run_id: 4e4307aceb804e8abfe487868a6c2137
+run_name: shivering-yak-665
+run_uuid: 4e4307aceb804e8abfe487868a6c2137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719238405443
+status: 3
+tags: []
+user_id: codespace

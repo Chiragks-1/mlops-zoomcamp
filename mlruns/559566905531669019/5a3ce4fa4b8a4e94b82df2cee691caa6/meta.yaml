@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559566905531669019/5a3ce4fa4b8a4e94b82df2cee691caa6/artifacts
+end_time: 1719238369521
+entry_point_name: ''
+experiment_id: '559566905531669019'
+lifecycle_stage: active
+run_id: 5a3ce4fa4b8a4e94b82df2cee691caa6
+run_name: fortunate-rat-901
+run_uuid: 5a3ce4fa4b8a4e94b82df2cee691caa6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719238366832
+status: 3
+tags: []
+user_id: codespace

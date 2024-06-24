@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559566905531669019/e9625bd3d1064079a5874ea046b43244/artifacts
+end_time: 1719238405434
+entry_point_name: ''
+experiment_id: '559566905531669019'
+lifecycle_stage: active
+run_id: e9625bd3d1064079a5874ea046b43244
+run_name: bedecked-chimp-60
+run_uuid: e9625bd3d1064079a5874ea046b43244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719238402659
+status: 3
+tags: []
+user_id: codespace

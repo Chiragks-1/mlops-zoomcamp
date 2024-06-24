@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559566905531669019/a2fb1ba186e64c4f8308258880ced78f/artifacts
+end_time: 1719238378773
+entry_point_name: ''
+experiment_id: '559566905531669019'
+lifecycle_stage: active
+run_id: a2fb1ba186e64c4f8308258880ced78f
+run_name: dapper-cat-242
+run_uuid: a2fb1ba186e64c4f8308258880ced78f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719238369529
+status: 3
+tags: []
+user_id: codespace

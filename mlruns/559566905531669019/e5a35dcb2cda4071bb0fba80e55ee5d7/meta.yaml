@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559566905531669019/e5a35dcb2cda4071bb0fba80e55ee5d7/artifacts
+end_time: 1719238399080
+entry_point_name: ''
+experiment_id: '559566905531669019'
+lifecycle_stage: active
+run_id: e5a35dcb2cda4071bb0fba80e55ee5d7
+run_name: bald-gull-471
+run_uuid: e5a35dcb2cda4071bb0fba80e55ee5d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719238394417
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559566905531669019/9afa8bdaab3e4712b197e87aeafd678a/artifacts
+end_time: 1719238402651
+entry_point_name: ''
+experiment_id: '559566905531669019'
+lifecycle_stage: active
+run_id: 9afa8bdaab3e4712b197e87aeafd678a
+run_name: serious-squid-338
+run_uuid: 9afa8bdaab3e4712b197e87aeafd678a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719238399088
+status: 3
+tags: []
+user_id: codespace

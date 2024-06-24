@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559566905531669019/151212568d2749bf9ffa23c0d558f449/artifacts
+end_time: 1719238361361
+entry_point_name: ''
+experiment_id: '559566905531669019'
+lifecycle_stage: active
+run_id: 151212568d2749bf9ffa23c0d558f449
+run_name: bemused-eel-996
+run_uuid: 151212568d2749bf9ffa23c0d558f449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719238360805
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559566905531669019/ed92185d654942cb806ae0ea7cbc181a/artifacts
+end_time: 1719238360383
+entry_point_name: ''
+experiment_id: '559566905531669019'
+lifecycle_stage: active
+run_id: ed92185d654942cb806ae0ea7cbc181a
+run_name: dashing-bird-576
+run_uuid: ed92185d654942cb806ae0ea7cbc181a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719238352408
+status: 3
+tags: []
+user_id: codespace
