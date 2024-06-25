@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/892255529796618611/367064e3e7e44b47a6af2e8b32102ed0/artifacts
+end_time: 1719290507091
+entry_point_name: ''
+experiment_id: '892255529796618611'
+lifecycle_stage: active
+run_id: 367064e3e7e44b47a6af2e8b32102ed0
+run_name: handsome-stork-129
+run_uuid: 367064e3e7e44b47a6af2e8b32102ed0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719290493568
+status: 3
+tags: []
+user_id: codespace

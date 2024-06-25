@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/892255529796618611/4a768c9a7a1b440c83d8bf86e4453bd4/artifacts
+end_time: 1719290539050
+entry_point_name: ''
+experiment_id: '892255529796618611'
+lifecycle_stage: active
+run_id: 4a768c9a7a1b440c83d8bf86e4453bd4
+run_name: placid-stork-844
+run_uuid: 4a768c9a7a1b440c83d8bf86e4453bd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719290532177
+status: 3
+tags: []
+user_id: codespace

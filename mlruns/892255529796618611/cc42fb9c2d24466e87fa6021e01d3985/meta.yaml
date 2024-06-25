@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/892255529796618611/cc42fb9c2d24466e87fa6021e01d3985/artifacts
+end_time: 1719290523778
+entry_point_name: ''
+experiment_id: '892255529796618611'
+lifecycle_stage: active
+run_id: cc42fb9c2d24466e87fa6021e01d3985
+run_name: gaudy-sheep-214
+run_uuid: cc42fb9c2d24466e87fa6021e01d3985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719290507251
+status: 3
+tags: []
+user_id: codespace

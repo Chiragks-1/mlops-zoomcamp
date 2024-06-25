@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/892255529796618611/3792071941ce421aad0269d88ce75fea/artifacts
+end_time: 1719290532170
+entry_point_name: ''
+experiment_id: '892255529796618611'
+lifecycle_stage: active
+run_id: 3792071941ce421aad0269d88ce75fea
+run_name: charming-colt-439
+run_uuid: 3792071941ce421aad0269d88ce75fea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719290523785
+status: 3
+tags: []
+user_id: codespace
