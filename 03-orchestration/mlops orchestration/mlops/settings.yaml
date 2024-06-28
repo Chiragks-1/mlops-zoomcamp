@@ -1,4 +1,10 @@
 projects:
+  energetic_morning: {}
+  grateful_butterfly: {}
+  homework_03:
+    path: homework_03
+  marvelous_ronin: {}
+  superlative_voice: {}
   unit_0_setup: {}
   unit_1_data_preparation: {}
   unit_2_training: {}
