@@ -48,8 +48,6 @@ def read_data(filename):
 
 
 # In[18]:
-
-
 year = int(sys.argv[1])
 month = int(sys.argv[2])
 
